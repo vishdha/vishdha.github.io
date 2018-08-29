@@ -55,6 +55,21 @@ main > .tagline {
 	font-weight: 100;
 }
 
+a:link
+{
+    color:#FFFFFF;
+}
+
+a:visited
+{
+    color:#FFFFFF;
+}
+
+a:hover 
+{
+    color:#FFFFFF;
+}
+
 .icons-social i {
 	padding: 10px;
 }
